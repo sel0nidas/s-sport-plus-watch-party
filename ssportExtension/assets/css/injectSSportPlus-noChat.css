@@ -1,0 +1,10 @@
+#streamDiv{
+    display: flex;
+    height: 100vh;
+    width: 40vw;
+    align-items: center;
+}
+#stream_embed{
+    width: 100%;
+    height: 40vh;
+}

@@ -1,0 +1,12 @@
+#stream_embed{
+    width: 100%;
+    height: 40vh;
+}
+#stream_embed .top-bar{
+    display: none !important;
+}
+#chat_embed{
+    border: 0 !important;
+    width: 100%;
+    height: 60vh;
+}
