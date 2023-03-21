@@ -1,0 +1,30 @@
+{
+    "name": "S Sport Plus WatchParty",
+    "version": "1.00",
+    "manifest_version": 3,
+    "description": "S Sport Plus WatchParty deneyimi için dizayn edilmiştir.",
+    "host_permissions": [
+      "*://app.ssportplus.com/live/*"
+    ],
+    "permissions": ["scripting", "tabs"],
+    "icons": {
+      "16": "assets/images/logo.png",
+      "32": "assets/images/logo.png",
+      "48": "assets/images/logo.png",
+      "128": "assets/images/logo.png"
+    },
+    "action": {
+      "default_title": "S Sport Plus WatchParty",
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "assets/images/logo.png",
+        "32": "assets/images/logo.png",
+        "48": "assets/images/logo.png",
+        "128": "assets/images/logo.png"
+      }
+    },
+    "web_accessible_resources": [{
+      "resources": ["*.png", "*.jpg"],
+      "matches": ["<all_urls>"]
+    }]
+  }
