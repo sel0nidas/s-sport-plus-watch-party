@@ -1,4 +1,4 @@
-# S Spor Plus Watch Party
+# S Sport Plus Watch Party
 
 S Sport Plus Watch Party eklentisi S Sport Plus sitesinde kullanılabilecek bir eklenti olup yayıncıyla birlikte izleme deneyimi sağlar.
 
